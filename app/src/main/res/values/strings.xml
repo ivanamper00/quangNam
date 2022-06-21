@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Xổ số Quảng Nam</string>
+    <string name="main">Main</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="tips">Tips</string>
+    <string name="history">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_6_45">6/45</string>
+    <string name="star_noto">Star\nToTo</string>
+    <string name="super_nlotto">Super\nLotto</string>
+    <string name="mini_nloto">Mini\nLoto</string>
+    <string name="mego_nloto">Mego\nLoto</string>
+    <string name="mark_nsix">Mark\nSix</string>
+    <string name="_6_49">6/49</string>
+    <string name="_6_58">6/58</string>
+</resources>
